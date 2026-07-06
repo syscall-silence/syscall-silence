@@ -78,11 +78,11 @@ Pixel-perfectionist. Accessibility advocate. If it doesn't feel right at 60fps, 
 </div>
 
 <div align="center">
-  <img src="https://profileforge-one.vercel.app/api/widgets/streak?theme=aurora&user=pixel-priya" alt="GitHub Streak" />
+  <img src="https://profileforge-one.vercel.app/api/widgets/streak?theme=aurora&user=syscall-silence" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://profileforge-one.vercel.app/api/widgets/top-langs?theme=aurora&user=pixel-priya" alt="Top Languages" />
+  <img src="https://profileforge-one.vercel.app/api/widgets/top-langs?theme=aurora&user=syscall-silence" alt="Top Languages" />
 </div>
 
 <div align="center">
