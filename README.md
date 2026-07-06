@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://profileforge-one.vercel.app/api/widgets/banner?style=gradient&text=your-username&theme=midnight" alt="your-username" width="100%" />
+<img src="https://profileforge-one.vercel.app/api/widgets/banner?style=gradient&text=syscall-silence&theme=midnight" alt="syscall-silence" width="100%" />
 
-# Hi there, I'm your-username 👋
+# Hi there, I'm syscall-silence 👋
 
 ### Available for select projects
 
@@ -28,11 +28,11 @@
 </div>
 
 <div align="center">
-  <img src="https://profileforge-one.vercel.app/api/widgets/stats?theme=midnight&user=your-username" alt="GitHub Stats" />
+  <img src="https://profileforge-one.vercel.app/api/widgets/stats?theme=midnight&user=syscall-silence" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://profileforge-one.vercel.app/api/widgets/activity?theme=midnight&user=your-username" alt="Contribution activity graph" width="100%" />
+  <img src="https://profileforge-one.vercel.app/api/widgets/activity?theme=midnight&user=syscall-silence" alt="Contribution activity graph" width="100%" />
 </div>
 
 <img src="https://profileforge-one.vercel.app/api/widgets/divider?style=wave&theme=midnight" alt="" width="100%" />
@@ -56,8 +56,8 @@
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/syscall-silence"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/syscall-silence"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ---
